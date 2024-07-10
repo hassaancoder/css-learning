@@ -1,0 +1,99 @@
+.fb-btn{
+    color: white;
+    background-color: dodgerblue;
+    text-decoration: none;
+    border: 2px solid dodgerblue;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.fb-btn:hover{
+    color: dodgerblue;
+    background-color: white;
+}
+.whatsapp-btn{
+    color: white;
+    background-color: green;
+    text-decoration: none;
+    border: 2px solid green;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.whatsapp-btn:hover{
+    color: green;
+    background-color: white;
+}
+.insta-btn{
+    color: white;
+    background-color: purple;
+    text-decoration: none;
+    border: 2px solid purple;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.insta-btn:hover{
+    color: purple;
+    background-color: white;
+}
+.twitter-btn{
+    color: white;
+    background-color: dodgerblue;
+    text-decoration: none;
+    border: 2px solid dodgerblue;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.twitter-btn:hover{
+    color: dodgerblue;
+    background-color: white;
+}
+.telegram-btn{
+    color: white;
+    background-color: dodgerblue;
+    text-decoration: none;
+    border: 2px solid dodgerblue;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.telegram-btn:hover{
+    color: dodgerblue;
+    background-color: white;
+}
+.snapchat-btn{
+    color: black;
+    background-color: yellow;
+    text-decoration: none;
+    border: 2px solid yellow;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.snapchat-btn:hover{
+    color: yellow;
+    background-color: black;
+}
+.youtube-btn{
+    color: white;
+    background-color: red;
+    text-decoration: none;
+    border: 2px solid red;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.youtube-btn:hover{
+    color: red;
+    background-color: white;
+}
+.amazon-btn{
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.amazon-btn:hover{
+    color: black;
+    background-color: yellow;
+}
+.fbbtn{
+    padding: 20px;
+}

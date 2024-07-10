@@ -1,0 +1,26 @@
+h1{
+    color:white;
+}
+
+.paragraph{
+    color:white;
+}
+
+ul{
+    color: yellow;
+}
+/*backgrounds*/
+body{
+    background-image: url(./img/bd2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-image: url(./img/bd2.webp);
+}
+div{
+    color: white;
+}
+.content{
+    background-color: rgb(244, 255, 247, 0.2);
+}

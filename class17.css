@@ -1,0 +1,58 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.trans-box{
+    color: navy;
+    background-color: yellow;
+    padding: 10px;
+    border: 3px solid navy;
+    border-radius: 70px;
+    width: 150px;
+    cursor: pointer;
+    text-align: center;
+    transition: 1s ease-in-out;
+   font-family: Impact,sans-serif;
+}
+.trans-box:hover{
+    width: 200px;
+    color: yellow;
+    background-color: navy;
+}
+.trans-box2{
+    color: white;
+    background-color: dodgerblue;
+    padding: 10px;
+    border: 3px solid blue;
+    border-radius: 70px;
+    width: 150px;
+    cursor: pointer;
+    text-align: center;
+    transition: 1s ease-in-out;
+    font-family: sans-serif;
+    text-decoration: none;
+    box-shadow: 0 0 15px white;
+    animation: glow 2s infinite;
+}
+.trans-box2:hover{
+    color: blue;
+    background-color: white;
+}
+@keyframes glow{
+    0%{
+        box-shadow: 0 0 15px white;
+    }
+    50%{
+        box-shadow: 0 0 50px navy;
+        border-color: dodgerblue;
+    }
+    100%{
+        box-shadow: 0 0 15px white;
+    }
+}
+
+.boxes{
+    display: flex;
+    justify-content: center; 
+}

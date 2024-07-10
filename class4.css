@@ -1,0 +1,16 @@
+.para1{
+background-color: bisque;
+width: 250px;  
+height: 150px;  
+overflow: auto;
+margin-left: auto;
+margin-right: auto;
+}
+.para2{
+    background: skyblue;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px outset navy;
+    padding: 15px;
+}

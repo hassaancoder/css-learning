@@ -1,0 +1,26 @@
+.border{
+    border: 10px inset red;
+    border-radius: 10px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.element{
+    border: 5px outset green;
+    margin: 100px;
+    padding: 50px;
+}
+.button{
+    background-color: aqua;
+    color: navy;
+    padding: 10px;
+    border: 8px navy inset;
+    border-radius: 5px;
+    text-decoration: none;
+}
+div{
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
